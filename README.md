@@ -7,19 +7,19 @@ ArabicAlphabetRecognition-CNN.ipynb -  Jupyter notebook of CNN model. <br />
 Test - Test dataset folder. <br />
 Train - Train dataset folder. <br />
 
-# Info of model
+# Info of dataset
 
 Test dataset contains 3,360 images <br/>
 Train dataset contains 13,440 images <br />
 
    # Model
-   ![example](https://github.com/AbdulBasit-MrRobo/Stock-Price-Notifier/blob/master/stockprojectex.png?raw=true)
+   ![model](https://github.com/AbdulBasit-MrRobo/ArabicAlphabetRecognitionCNN/blob/master/model.png?raw=true)
    
    # Accuracy
-   ![example](https://github.com/AbdulBasit-MrRobo/Stock-Price-Notifier/blob/master/stockprojectex.png?raw=true)
+   ![accuracy](https://github.com/AbdulBasit-MrRobo/ArabicAlphabetRecognitionCNN/blob/master/accuracy.png?raw=true)
    
    # Prediction
-   ![example](https://github.com/AbdulBasit-MrRobo/Stock-Price-Notifier/blob/master/stockprojectex.png?raw=true)
+   ![prediction](https://github.com/AbdulBasit-MrRobo/ArabicAlphabetRecognitionCNN/blob/master/predicton.png?raw=true)
   
 # References
  model - https://towardsdatascience.com/building-and-deploying-an-alphabet-recognition-system-7ab59654c676 <br />
